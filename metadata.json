@@ -1,0 +1,6 @@
+{
+  "name": "Trax Algo",
+  "description": "Elite Quant Developer AI specialized in Pine Script v6 and MQL5.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation", "notifications"],
+  "majorCapabilities": []
+}

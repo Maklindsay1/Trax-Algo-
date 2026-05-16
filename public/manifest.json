@@ -1,0 +1,15 @@
+{
+  "short_name": "Trax Algo",
+  "name": "Trax Algo | Institutional Engine",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0E0E11",
+  "background_color": "#0E0E11"
+}
